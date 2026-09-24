@@ -1,1 +1,2 @@
 - Session 03 — https://drive.google.com/file/d/10z5WbS6sM4MQRs_bCnR--U02HbCNCdOy/view?usp=drive_link
+- Session 02 - https://drive.google.com/drive/folders/1pTaMee6yCO0pePHkE6u8jgRq9NkeFz-7?hl=vi
