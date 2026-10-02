@@ -3,11 +3,13 @@ body {
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: #333;
+    margin: 0;
 }
 h1 {
     color: #007BFF;
     text-align: center;
     margin-top: 20px;
+    font-size: 36px;
 }
 h2 {
     color: #28A745;
@@ -21,11 +23,12 @@ p {
     line-height: 1.6;
     margin-bottom: 20px;
     padding: 0 20px;
+    margin-top: 20px;
 }
 img {
     display: block;
     margin: 100px auto;
-    max-width: 200%;
+    max-width: 100%;
     height: auto;
     border-radius: 100px;
     padding: 60px;
