@@ -1,3 +1,4 @@
+/* màu cho đoạn văn chính của website */
 body {
     background-color: #c1ca1c;
     font-family: Arial, sans-serif;
@@ -21,9 +22,8 @@ h3 {
 }
 p {
     line-height: 1.6;
-    margin-bottom: 20px;
+    margin: 20px 0;
     padding: 0 20px;
-    margin-top: 20px;
 }
 img {
     display: block;
